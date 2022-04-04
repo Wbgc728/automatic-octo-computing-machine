@@ -39,3 +39,6 @@ The walkthrough video should also show the POST, PUT, and DELETE routes for prod
 
 https://github.com/Wbgc728/automatic-octo-computing-machine
 
+PRODUCTS: https://drive.google.com/file/d/1DvsX7zn4aEMWNW4QhEwxsjCYxxsXYFdD/view
+CATEGORIES: https://drive.google.com/file/d/1uyGCcYBJaBHK9H3jIgPs-nyxi6t5c43M/view
+TAGS: https://drive.google.com/file/d/17bE2clMY2aKj1WPIKHJ8L1AW9nnHFjB9/view
